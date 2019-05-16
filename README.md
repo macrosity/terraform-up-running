@@ -1,0 +1,2 @@
+# terraform-up-running
+Terraform code is written in the HashiCorp Configuration Language (HCL) in files with the extension .tf.4 It is a declarative language, so your goal is to describe the infrastructure you want, and Terraform will figure out how to create it. Terraform can create infrastructure across a wide variety of platforms, or what it calls providers, including AWS, Azure, Google Cloud, DigitalOcean, and many others.
